@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on PrimeNews</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://primenews.netlify.app/tags/</link>
     <description>Recent content in Tags on PrimeNews</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://primenews.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
-      <link>http://localhost:1313/tags/news/</link>
+      <link>https://primenews.netlify.app/tags/news/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/news/</guid>
+      <guid>https://primenews.netlify.app/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/tags/test/</link>
+      <link>https://primenews.netlify.app/tags/test/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/test/</guid>
+      <guid>https://primenews.netlify.app/tags/test/</guid>
       <description></description>
     </item>
     <item>
       <title>Trending</title>
-      <link>http://localhost:1313/tags/trending/</link>
+      <link>https://primenews.netlify.app/tags/trending/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/trending/</guid>
+      <guid>https://primenews.netlify.app/tags/trending/</guid>
       <description></description>
     </item>
     <item>
       <title>Usa</title>
-      <link>http://localhost:1313/tags/usa/</link>
+      <link>https://primenews.netlify.app/tags/usa/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/usa/</guid>
+      <guid>https://primenews.netlify.app/tags/usa/</guid>
       <description></description>
     </item>
   </channel>

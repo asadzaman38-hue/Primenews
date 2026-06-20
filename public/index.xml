@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PrimeNews</title>
-    <link>http://localhost:1313/</link>
+    <link>https://primenews.netlify.app/</link>
     <description>Recent content on PrimeNews</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://primenews.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bitcoin crash usa</title>
-      <link>http://localhost:1313/news/bitcoin-crash-usa/</link>
+      <link>https://primenews.netlify.app/news/bitcoin-crash-usa/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/bitcoin-crash-usa/</guid>
+      <guid>https://primenews.netlify.app/news/bitcoin-crash-usa/</guid>
       <description>bitcoin crash usa latest update</description>
     </item>
     <item>
       <title>PrimeNews Launch Test</title>
-      <link>http://localhost:1313/news/first-post/</link>
+      <link>https://primenews.netlify.app/news/first-post/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/first-post/</guid>
+      <guid>https://primenews.netlify.app/news/first-post/</guid>
       <description>&lt;p&gt;🚀 PrimeNews system successfully initialized.&lt;/p&gt;
 &lt;p&gt;This is the first test article to confirm setup is working.&lt;/p&gt;</description>
     </item>
     <item>
       <title>US Trending Update: Sample News</title>
-      <link>http://localhost:1313/news/demo-news/</link>
+      <link>https://primenews.netlify.app/news/demo-news/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/demo-news/</guid>
+      <guid>https://primenews.netlify.app/news/demo-news/</guid>
       <description>Latest trending update sample article</description>
     </item>
   </channel>
