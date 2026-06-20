@@ -1,0 +1,10 @@
+baseURL = "https://primenews.netlify.app/"
+languageCode = "en-us"
+title = "PrimeNews"
+
+theme = "PaperMod"
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
